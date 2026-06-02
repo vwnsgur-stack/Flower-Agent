@@ -5,6 +5,12 @@ AI 기반 플로리스트 예약 및 고객 관리 시스템입니다.
 
 ## 🖼 스크린샷 (Screenshots)
 
+### 🚪 접속 및 메인
+| 로그인 | 회원가입 | 메인페이지 |
+|:---:|:---:|:---:|
+| ![로그인](FlowerManagerPicture/01_로그인.png) | ![회원가입](FlowerManagerPicture/02_회원가입.png) | ![메인페이지](FlowerManagerPicture/03_메인페이지.png) |
+
+### 📅 세부 기능 관리
 | | |
 |:---:|:---:|
 | ![새 예약 등록](FlowerManagerPicture/04_새예약등록.png) | ![새 예약 등록 (AI 분석)](FlowerManagerPicture/05_새예약등록.png) |
