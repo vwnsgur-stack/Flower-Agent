@@ -1,0 +1,17 @@
+# Secrets
+.env
+backend/.env
+
+# Node.js
+frontend/node_modules/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+
+# Database
+backend/*.db
+backend/*.sqlite3
+
+# Uploads
+backend/uploads/
