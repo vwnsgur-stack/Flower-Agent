@@ -6,36 +6,45 @@ AI 기반 플로리스트 예약 및 고객 관리 시스템입니다.
 ## 🖼 스크린샷 (Screenshots)
 
 ### 로그인
-![로그인](FlowerManagerPicture/01_로그인.png)
-회원의 정보를 입력하는 로그인페이지입니다. 회원가입버튼을 통해 회원가입 페이지로 이동합니다.
+<p align="center"><img src="FlowerManagerPicture/01_로그인.png" alt="로그인" width="80%"></p>
+
+- 회원의 정보를 입력하는 로그인페이지입니다. 회원가입버튼을 통해 회원가입 페이지로 이동합니다.
 
 ### 회원가입
-![회원가입](FlowerManagerPicture/02_회원가입.png)
-회원의 모든 정보를 입력 후 가입하는 페이지입니다.
+<p align="center"><img src="FlowerManagerPicture/02_회원가입.png" alt="회원가입" width="80%"></p>
+
+- 회원의 모든 정보를 입력 후 가입하는 페이지입니다.
 
 ### 메인페이지
-![메인페이지](FlowerManagerPicture/03_메인페이지.png)
+<p align="center"><img src="FlowerManagerPicture/03_메인페이지.png" alt="메인페이지" width="80%"></p>
+
 - 로그인 후 나타나는 메인페이지입니다. 각 카테고리별로 상세내용을 확인 할 수 있습니다.
 
 ### 예약추가
-![예약추가](FlowerManagerPicture/04_새예약등록.png)
+<p align="center"><img src="FlowerManagerPicture/04_새예약등록.png" alt="예약추가" width="80%"></p>
+
 - 고객의 예약 내용을 추가하는 페이지입니다. 레퍼런스 사진을 등록하면 AI가 이미지의 내용을 분석 후 결과를 도출합니다.
 
-![예약추가 상세](FlowerManagerPicture/05_새예약등록.png)
+<p align="center"><img src="FlowerManagerPicture/05_새예약등록.png" alt="예약추가 상세" width="80%"></p>
+
 - 이미지 레퍼런스의 결과 내용을 확인할 수 있습니다.
 
 ### 예약보기
-![예약보기](FlowerManagerPicture/06_예약보기.png)
+<p align="center"><img src="FlowerManagerPicture/06_예약보기.png" alt="예약보기" width="80%"></p>
+
 - 추가된 예약을 날짜별로 확인할 수 있습니다. 예약의 정보를 클릭하면 예약의 상세 내용을 확인할 수 있습니다.
 
-![예약상세보기](FlowerManagerPicture/07_예약상세보기.png)
+<p align="center"><img src="FlowerManagerPicture/07_예약상세보기.png" alt="예약상세보기" width="80%"></p>
+
 - 상세내용을 확인할 수 있습니다. 잘못된 예약일 경우 삭제버튼을 눌러 예약을 삭제할 수 있습니다. 픽업상태에 따라 대기중/픽업완료 를 선택할 수 있습니다.
 
 ### 전체 고객 관리
-![전체 고객 관리](FlowerManagerPicture/08_전체고객관리.png)
+<p align="center"><img src="FlowerManagerPicture/08_전체고객관리.png" alt="전체 고객 관리" width="80%"></p>
+
 - 총 방문한 고객의 정보를 확인할 수 있습니다. 해당 고객의 정보를 클릭할 시 방문날짜 및 결제구매내역을 확인할 수 있습니다.
 
-![전체 고객 상세 관리](FlowerManagerPicture/09_전체고객관리.png)
+<p align="center"><img src="FlowerManagerPicture/09_전체고객관리.png" alt="전체 고객 상세 관리" width="80%"></p>
+
 - 방문한 고객의 상세 내용입니다.
 
 ## ✨ 주요 기능 (Key Features)
