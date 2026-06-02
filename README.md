@@ -3,16 +3,6 @@
 AI 기반 플로리스트 예약 및 고객 관리 시스템입니다. 
 복잡한 꽃 예약 내역을 캘린더로 한눈에 관리하고, 고객이 보낸 시안 이미지를 AI가 분석하여 필요한 꽃과 사입 자재를 자동으로 추출해 줍니다.
 
-## 🖼 스크린샷 (Screenshots)
-
-| 캘린더 스케줄링 (Calendar UI) | AI 이미지 분석 (AI Analysis UI) |
-| :---: | :---: |
-| ![캘린더 뷰](frontend/assets/calendar.png) | ![AI 분석 뷰](frontend/assets/ai_analysis.png) |
-
-| 고객 CRM 관리 (Customer CRM) |
-| :---: |
-| ![고객 목록](frontend/assets/customer.png) |
-
 ## ✨ 주요 기능 (Key Features)
 - **📅 캘린더 기반 스케줄링**: 직관적인 달력 UI로 일자별 예약 내역과 픽업 시간을 관리합니다.
 - **🤖 AI 시안 이미지 분석**: 예약 시 첨부된 레퍼런스 이미지를 AI가 분석하여 꽃 종류와 사입해야 할 자재 목록을 자동으로 작성합니다.
