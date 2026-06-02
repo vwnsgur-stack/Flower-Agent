@@ -7,9 +7,9 @@ AI 기반 플로리스트 예약 및 고객 관리 시스템입니다.
 
 | | |
 |:---:|:---:|
-| ![04](frontend/assets/04.png) | ![05](frontend/assets/05.png) |
-| ![06](frontend/assets/06.png) | ![07](frontend/assets/07.png) |
-| ![08](frontend/assets/08.png) | ![09](frontend/assets/09.png) |
+| ![새 예약 등록](FlowerManagerPicture/04_새예약등록.png) | ![새 예약 등록 (AI 분석)](FlowerManagerPicture/05_새예약등록.png) |
+| ![예약 보기](FlowerManagerPicture/06_예약보기.png) | ![예약 상세보기](FlowerManagerPicture/07_예약상세보기.png) |
+| ![전체 고객 관리](FlowerManagerPicture/08_전체고객관리.png) | ![전체 고객 상세 관리](FlowerManagerPicture/09_전체고객관리.png) |
 
 ## ✨ 주요 기능 (Key Features)
 - **📅 캘린더 기반 스케줄링**: 직관적인 달력 UI로 일자별 예약 내역과 픽업 시간을 관리합니다.
